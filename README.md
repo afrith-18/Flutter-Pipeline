@@ -1,5 +1,4 @@
 # Flutter-Pipeline
-🔥 Flutter CI template with GitHub Actions — clean code, fast builds, reliable delivery.
 A minimal, production-ready GitHub → Flutter pipeline template.
 
 Use this repository as a starter for Flutter apps to get:
